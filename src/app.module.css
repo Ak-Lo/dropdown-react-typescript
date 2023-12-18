@@ -1,0 +1,24 @@
+.items {
+    width: 100px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.initialvalue{
+    height: 30px;
+    /* height: auto; */
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.menuButtons {
+    display: flex;
+}
+
+.menuHidden {
+    display: none;
+}
